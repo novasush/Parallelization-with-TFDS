@@ -11,4 +11,4 @@ ValueError: No data provided for "input_1". Need data for each key in: ['input_1
 ```
 Then you are either running code on google colab or on a machine which has either cpu or gpu only.
 
-The blog for same will be available [here](https://towardsdatascience.com/@novasush) soon.
+You can also refer my blog from [here](https://medium.com/@novasush/data-pipelining-for-effective-use-of-cpu-and-gpu-with-tensorflow-and-tfds-3c9cad39a03e).
